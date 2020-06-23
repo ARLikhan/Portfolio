@@ -120,9 +120,21 @@ body
   margin-left: -70px;
 }
 
+#Signup span
+{
+  padding: 10px 20px 10px 20px;
+  margin-left: -70px;
+}
 
+#Signup hr 
+{
+  border-width: 3px;
+  margin-top: 06px;
+  margin-left: -70px;
+}
 
+#Signup .card
+{
+  margin-left: -70px;
 
-
-
-
+}
