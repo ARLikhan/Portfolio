@@ -45,6 +45,26 @@ body
   margin-left: -70px;
 }
 
+#Education span
+{
+  padding: 10px 20px 10px 20px;
+  margin-left: -70px;
+}
+
+#Education hr
+{
+  border-width: 3px;
+  margin-top: 06px;
+  margin-left: -70px;
+}
+
+
+#Education p
+{
+  margin-left: -70px;
+}
+
+
 #Skills span
 {
   padding: 10px 20px 10px 20px;
