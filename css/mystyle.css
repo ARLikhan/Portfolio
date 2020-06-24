@@ -59,7 +59,7 @@ body
 }
 
 
-#Education p
+#Education ul
 {
   margin-left: -70px;
 }
@@ -101,25 +101,6 @@ body
   margin-left: -70px;
 }
 
-#SignIn span
-{
-  padding: 10px 20px 10px 20px;
-  margin-left: -70px;
-}
-
-#SignIn hr 
-{
-  border-width: 3px;
-  margin-top: 06px;
-  margin-left: -70px;
-}
-
-#SignIn .card
-{
-  margin-left: -70px;
-
-}
-
 
 
 #Contact span 
@@ -140,21 +121,26 @@ body
   margin-left: -70px;
 }
 
-#Signup span
+
+#Projects span 
 {
   padding: 10px 20px 10px 20px;
   margin-left: -70px;
 }
 
-#Signup hr 
+#Projects hr
 {
   border-width: 3px;
   margin-top: 06px;
   margin-left: -70px;
 }
 
-#Signup .card
+#Projects .card 
 {
   margin-left: -70px;
+}
 
+#Projects h2
+{
+  margin-left: -70px;
 }
